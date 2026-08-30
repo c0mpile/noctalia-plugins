@@ -6,7 +6,7 @@ Browse [Wallhaven](https://wallhaven.cc), download a wallpaper into your Noctali
 
 | Field | Value |
 | --- | --- |
-| ID | `noctalia/wallhaven` |
+| ID | `c0mpile/wallhaven` |
 | Entries | Panel: `browser`; bar widget: `wallhaven`; shortcut: `shortcut` |
 
 ## Usage
@@ -15,7 +15,7 @@ Browse [Wallhaven](https://wallhaven.cc), download a wallpaper into your Noctali
 2. Add the `wallhaven` bar widget, the control center shortcut, or run:
 
    ```sh
-   noctalia msg panel-toggle noctalia/wallhaven:browser
+   noctalia msg panel-toggle c0mpile/wallhaven:browser
    ```
 
 3. Search by tags, adjust category and purity filters, paginate results, then click a wallpaper to download and apply.
